@@ -66,3 +66,8 @@ Use [StimulusReflex](https://docs.stimulusreflex.com) to make posting comments h
 ### Clean the Look Up
 
 Whoever designed this didn't do a great job. Take advantage of Bootstrap and add your own touch to make it look pretty.
+
+### Helpful Reviews
+
+Users could mark reviews they read as helpful. There should be a record of this so that they could later go back and see which reviews
+they marked as helpful in the past. 
