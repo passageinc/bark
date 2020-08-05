@@ -1,0 +1,18 @@
+<p id="notice"><%= notice %></p>
+
+<%= link_to 'Edit', edit_restaurant_path(@restaurant) %> |
+<%= link_to 'Back', restaurants_path %>
+
+<p>
+  <strong>Name:</strong>
+  <%= @restaurant.name %>
+</p>
+
+<p>
+  <strong>User:</strong>
+  <%= @restaurant.user_id %>
+</p>
+
+<%= render 'reviews/form' %>
+<h2>Reviews</h2>
+<%= render @reviews if @reviews.any? %>

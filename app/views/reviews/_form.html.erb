@@ -1,0 +1,20 @@
+<div class="card card-body">
+  <div class="card-title">
+    Submit a Review
+  </div>
+  <%= form_with(model: [@restaurant, Review.new], local: true) do |form| %>
+    <div class="form-group">
+      <label for="exampleFormControlSelect1">5 Star Rating</label>
+      <%= form.select(:rating, [['1', 1], ['2', 2], ['3', 3], ['4', 4], ['5', 5]], class: 'form-control') %>
+    </div>
+
+    <div class="form-group">
+      <label for="comment">Comment</label>
+      <%= form.text_field :comment, class: 'form-control' %>
+    </div>
+
+    <div class="form-group">
+      <%= form.submit class: 'btn btn-primary' %>
+    </div>
+  <% end %>
+</div>
