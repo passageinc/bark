@@ -47,8 +47,8 @@ great fit here.
 
 ### Test Suite
 
-This is just a play app, but we still want to see some tests written. While RSPEC is great, our team prefers the built-in minitest. Make sure our mission critical processes
-are protected! 
+This is just a play app, but we still want to see some tests written. No need for full test coverage, we just want to see some examples of how you think about and how you write tests. 
+Note: This repo is setup and ready to go with plain old minitest. Feel free to install and use Rspec if that is what you're comfortable with! 
 
 ### Restaurant Pictures
 
