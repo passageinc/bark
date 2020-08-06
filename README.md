@@ -1,13 +1,13 @@
 # Coding Challenge
 
-This repository is a very bare-bones Ruby On Rails app called "Bark" that allows users to create and review restaurants. 
+This repository is a very bare-bones Ruby On Rails app called "Bark" that allows users to create and review restaurants. Feel free to use this repo and any work you put into it for whatever purpose you want. 
 
 ## Instructions
 
-1. Clone this repository to your GitHub Account
+1. Fork this repository to your GitHub Account (Or download it directly if you want more anonymity)
 2. Get the app running in your local development environment
 3. Complete the tasks listed below. 
-4. Commit your work as a new branch to YOUR OWN GitHub Account
+4. Commit your work as a new branch to YOUR OWN GitHub Account (or zip it and move to step 5 if you don't want it on your public profile)
 5. Email pat@gopassage.com that you are done
 
 ## Tasks
