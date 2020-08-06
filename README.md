@@ -1,6 +1,6 @@
 # Coding Challenge
 
-This repository is a very bare-bones Ruby On Rails app called "Bark" that allows users to create and review restaurants. 
+This repository is a very bare-bones Ruby On Rails app called "Bark" that allows users to create and review restaurants. Feel free to use this repo and any work you put into it for whatever purpose you want. 
 
 ## Instructions
 
