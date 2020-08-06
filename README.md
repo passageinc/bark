@@ -4,10 +4,10 @@ This repository is a very bare-bones Ruby On Rails app called "Bark" that allows
 
 ## Instructions
 
-1. Clone this repository to your GitHub Account
+1. Fork this repository to your GitHub Account (Or download it directly if you want more anonymity)
 2. Get the app running in your local development environment
 3. Complete the tasks listed below. 
-4. Commit your work as a new branch to YOUR OWN GitHub Account
+4. Commit your work as a new branch to YOUR OWN GitHub Account (or zip it and move to step 5 if you don't want it on your public profile)
 5. Email pat@gopassage.com that you are done
 
 ## Tasks
