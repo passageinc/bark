@@ -7,7 +7,8 @@ This repository is a very bare-bones Ruby On Rails app called "Bark" that allows
 1. Clone this repository to your GitHub Account
 2. Get the app running in your local development environment
 3. Complete the tasks listed below. 
-4. Submit a pull request against this Repo when complete
+4. Commit your work as a new branch to YOUR OWN GitHub Account
+5. Email pat@gopassage.com that you are done
 
 ## Tasks
 
