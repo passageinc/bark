@@ -16,9 +16,9 @@ This repository is a very bare-bones Ruby On Rails app called "Bark" that allows
 
 The newest reviews should be at the top of the list. 
 
-### Comment Deletion
+### Review Deletion
 
-Users need to be able to delete their own comments. There is already a button, but it doesn't work. 
+Users need to be able to delete their own reviews. There is already a button, but it doesn't work. 
 
 ### Average Rating
 
