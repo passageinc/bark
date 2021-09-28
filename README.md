@@ -62,7 +62,7 @@ It would be cool if customers could submit photos with their reviews too.
 
 ### Real-Time Reviews
 
-Use [StimulusReflex](https://docs.stimulusreflex.com) to make posting comments happen in without a page reload and [CableReady](https://cableready.stimulusreflex.com) to make viewers see those same comments come in in real-time
+Use [StimulusReflex](https://docs.stimulusreflex.com) to make posting comments happen without a page reload and [CableReady](https://cableready.stimulusreflex.com) to make viewers see those same comments come in in real-time. The [Hotwire](https://hotwired.dev) is also a perfectly acceptable set of tools to make this happen.
 
 ### Clean the Look Up
 
