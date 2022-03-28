@@ -56,6 +56,9 @@ We need restaurant owners to be able to upload photos of their restuarant and fo
 
 ## Bonus Tasks
 
+### Update Rails
+This app is getting old, it would be great if we could upgrade to Rails 7.
+
 ### Review photos
 
 It would be cool if customers could submit photos with their reviews too.
